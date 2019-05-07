@@ -1,0 +1,1 @@
+This project is all about melbourn house price prediction using the python scription. the project basically for learning purpose.
